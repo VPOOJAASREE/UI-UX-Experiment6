@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1KfMbSXJyxgmLuHDK0CQRntmr7KzGTDVM/view?usp=shari
 
 ## Result (conclusion / takeaway)
 
-The combined UX scenario exercise successfully produced a set of practical, testable artefacts: rapid ideation options that prioritize speed and convenience, clear user stories grounded in a realistic persona, a scenario that reveals emotional context, a concise booking task flow suitable for low-fidelity prototyping, and an IA that structures content logically. These artefacts can be used immediately to create wireframes, run usability tests, and iterate the hospital booking experience. ✔️ 
+The combined UX scenario exercise successfully produced a set of practical, testable artefacts: rapid ideation options that prioritize speed and convenience, clear user stories grounded in a realistic persona, a scenario that reveals emotional context, a concise booking task flow suitable for low-fidelity prototyping, and an IA that structures content logically. These artefacts can be used immediately to create wireframes, run usability tests, and iterate the hospital booking experience. 
 
 ---
 
