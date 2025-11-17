@@ -26,13 +26,6 @@ Design and validate a fast, user-friendly mobile flow for **booking a doctor app
 
 https://drive.google.com/file/d/1KfMbSXJyxgmLuHDK0CQRntmr7KzGTDVM/view?usp=sharing
 
-* **8 low-fidelity ideation concepts** (listed features above).
-* **Persona**: Aadhya (age 27) with goals & pain points.
-* **User stories** (≥5) directly tied to booking tasks.
-* **Scenario narrative** describing context, steps, and emotional states (before/during/after).
-* **Task flow** for booking a doctor appointment (Start → Open app → Book appointment → Specialization → Doctor → Time slot → Confirm → Payment (opt) → Booked).
-* **Information Architecture (site map)** produced from open card sorting with grouped categories (Academics, Admissions, Campus Life, Support, About Us).
-* **Result summary** confirming completion of each deliverable and artifacts ready for UI sketching and prototyping. 
 
 ## Result (conclusion / takeaway)
 
